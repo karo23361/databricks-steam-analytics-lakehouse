@@ -116,15 +116,16 @@ External APIs → JSON Files -> Databricks Notebooks → BRONZE → SILVER → G
 ---
 
 ## 🔄 Workflow
-
-<img src="docs/databricks_pipeline_workflow.png" width="600">
+<p align="center">
+<img src="docs/databricks_pipeline_workflow.png" width="800">
+</p>
 
 ---
 
 ## 📊 Final Dashboard  
-
-<img src="powerbi/steam_databricks_dashboard.png" width="600">
-
+<p align="center">
+<img src="powerbi/steam_databricks_dashboard.png" width="800">
+</p>
 ---
 
 ## 🚀 Key Features
